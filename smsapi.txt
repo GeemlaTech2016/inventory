@@ -1,0 +1,1 @@
+https://smartsmssolutions.com/api/?message=Hello+world&to=08069504309&sender=Wehdone+Sir&type=0&routing=3&token=MODx5rfhRzFTNWGQMP0Jp7PRYSk43wqyP02KLEgdJWgxAiYoGtqM6itJdpRZUHoaIv4rRmC5QjBTSQpc7D0llgPAduROyU8TL3u0
